@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Problem Solved email triger. Email will be send in 1h</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_cdltd_helpdesk_s.problem.solved</name>
+        <read_roles>x_cdltd_helpdesk_s.helpdesk_admin</read_roles>
+        <suffix>problem.solved</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>misa.nanuk</sys_created_by>
+        <sys_created_on>2020-05-21 10:41:37</sys_created_on>
+        <sys_id>188cff9f993890107f44d7957003b375</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_cdltd_helpdesk_s.problem.solved</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>sys_properties_188cff9f993890107f44d7957003b375</sys_update_name>
+        <sys_updated_by>misa.nanuk</sys_updated_by>
+        <sys_updated_on>2020-05-21 11:03:53</sys_updated_on>
+        <type>integer</type>
+        <value>1</value>
+        <write_roles>x_cdltd_helpdesk_s.helpdesk_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=188cff9f993890107f44d7957003b375"/>
+</record_update>

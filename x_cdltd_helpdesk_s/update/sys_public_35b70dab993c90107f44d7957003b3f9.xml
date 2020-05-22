@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_public">
+    <sys_public action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <page>Create New</page>
+        <sys_class_name>sys_public</sys_class_name>
+        <sys_created_by>max.avit</sys_created_by>
+        <sys_created_on>2020-05-21 16:08:57</sys_created_on>
+        <sys_id>35b70dab993c90107f44d7957003b3f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>sys_public_35b70dab993c90107f44d7957003b3f9</sys_update_name>
+        <sys_updated_by>max.avit</sys_updated_by>
+        <sys_updated_on>2020-05-21 16:08:57</sys_updated_on>
+    </sys_public>
+</record_update>

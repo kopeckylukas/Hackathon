@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Helpdesk" language="en" table="x_cdltd_helpdesk_s_helpdesk">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Helpdesk</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <plural>Helpdesks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 09:29:47</sys_created_on>
+            <sys_id>256ceb17993890107f44d7957003b304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Helpdesk</sys_name>
+            <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_helpdesk_s_helpdesk__en</sys_update_name>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 09:29:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

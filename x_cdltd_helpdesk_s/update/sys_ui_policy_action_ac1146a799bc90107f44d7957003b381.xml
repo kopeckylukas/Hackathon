@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>lukas.kopecky</sys_created_by>
+        <sys_created_on>2020-05-21 20:19:47</sys_created_on>
+        <sys_id>ac1146a799bc90107f44d7957003b381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ac1146a799bc90107f44d7957003b381</sys_update_name>
+        <sys_updated_by>lukas.kopecky</sys_updated_by>
+        <sys_updated_on>2020-05-21 20:19:47</sys_updated_on>
+        <table>x_cdltd_helpdesk_s_helpdesk</table>
+        <ui_policy display_value="Mandatory Description if Issue Case is Hardware, Sowtware or Other - Helpdesk">078042a799bc90107f44d7957003b35e</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

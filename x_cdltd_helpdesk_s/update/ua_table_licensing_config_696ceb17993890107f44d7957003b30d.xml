@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_cdltd_helpdesk_s_helpdesk</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>lukas.kopecky</sys_created_by>
+        <sys_created_on>2020-05-21 09:29:47</sys_created_on>
+        <sys_id>696ceb17993890107f44d7957003b30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_helpdesk_s_helpdesk</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>ua_table_licensing_config_696ceb17993890107f44d7957003b30d</sys_update_name>
+        <sys_updated_by>lukas.kopecky</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:29:47</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

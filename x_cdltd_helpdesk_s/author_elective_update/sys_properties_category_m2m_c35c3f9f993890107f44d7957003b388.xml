@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="HelpDesk Email">2a7b7b5f993890107f44d7957003b3a8</category>
+        <order>1</order>
+        <property/>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>misa.nanuk</sys_created_by>
+        <sys_created_on>2020-05-21 10:39:35</sys_created_on>
+        <sys_id>c35c3f9f993890107f44d7957003b388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.HelpDesk Email</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_c35c3f9f993890107f44d7957003b388</sys_update_name>
+        <sys_updated_by>misa.nanuk</sys_updated_by>
+        <sys_updated_on>2020-05-21 10:39:35</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</application>
+        <file_path/>
+        <instance_id>9735fdcadbf09454769cc170ba961911</instance_id>
+        <instance_name>adf-may-717-dev-012</instance_name>
+        <name>sys_properties_category_m2m_c35c3f9f993890107f44d7957003b388</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="HelpDesk Email">2a7b7b5f993890107f44d7957003b3a8</category><order>1</order><property/><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>misa.nanuk</sys_created_by><sys_created_on>2020-05-21 10:39:35</sys_created_on><sys_id>c35c3f9f993890107f44d7957003b388</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.HelpDesk Email</sys_name><sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package><sys_policy/><sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope><sys_update_name>sys_properties_category_m2m_c35c3f9f993890107f44d7957003b388</sys_update_name><sys_updated_by>misa.nanuk</sys_updated_by><sys_updated_on>2020-05-21 10:39:35</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>692662629</payload_hash>
+        <record_name>.HelpDesk Email</record_name>
+        <reverted_from/>
+        <source>b29b6317993890107f44d7957003b3a9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>misa.nanuk</sys_created_by>
+        <sys_created_on>2020-05-21 10:39:35</sys_created_on>
+        <sys_id>406c3f9f993890107f44d7957003b355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17236d124840000001</sys_recorded_at>
+        <sys_updated_by>misa.nanuk</sys_updated_by>
+        <sys_updated_on>2020-05-21 10:39:35</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>886c3f9fcb389010816014e6d8885a54</update_guid>
+        <update_guid_history>886c3f9fcb389010816014e6d8885a54:692662629</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>misa.nanuk</sys_created_by>
+        <sys_created_on>2020-05-21 10:47:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>758fd9a8cfbe4362bce7448d48d18624</sys_id>
+        <sys_metadata>c35c3f9f993890107f44d7957003b388</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.HelpDesk Email</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_scope_delete display_value="">35f2f6d6fcbe4918b3fff815362d9cd1</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_c35c3f9f993890107f44d7957003b388</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_c35c3f9f993890107f44d7957003b388">406c3f9f993890107f44d7957003b355</sys_update_version>
+        <sys_updated_by>misa.nanuk</sys_updated_by>
+        <sys_updated_on>2020-05-21 10:47:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

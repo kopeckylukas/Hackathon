@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Used to inform user about problem being solved.</description>
+        <event_name>x_cdltd_helpdesk_s.COMPLETED</event_name>
+        <fired_by>Scheduled Script Execution: Problem Solved</fired_by>
+        <queue/>
+        <suffix>COMPLETED</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>misa.nanuk</sys_created_by>
+        <sys_created_on>2020-05-21 11:21:40</sys_created_on>
+        <sys_id>5da50c27997890107f44d7957003b32a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_helpdesk_s.COMPLETED</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>sysevent_register_5da50c27997890107f44d7957003b32a</sys_update_name>
+        <sys_updated_by>misa.nanuk</sys_updated_by>
+        <sys_updated_on>2020-05-21 11:21:40</sys_updated_on>
+        <table>x_cdltd_helpdesk_s_helpdesk</table>
+    </sysevent_register>
+</record_update>

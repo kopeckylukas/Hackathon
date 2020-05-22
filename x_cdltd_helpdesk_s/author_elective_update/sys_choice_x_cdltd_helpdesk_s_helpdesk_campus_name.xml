@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="campus_name" table="x_cdltd_helpdesk_s_helpdesk" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Regent Street</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>0</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 10:30:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d84ab71f993890107f44d7957003b3f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 10:30:19</sys_updated_on>
+            <value>regen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cavendish</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>1</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 10:30:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d84ab71f993890107f44d7957003b3f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 10:30:19</sys_updated_on>
+            <value>cavendish</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marylebone</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>2</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 10:30:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>944ab71f993890107f44d7957003b3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 10:30:19</sys_updated_on>
+            <value>marylebone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Harrow</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>3</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 10:30:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>504ab71f993890107f44d7957003b3f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 10:30:19</sys_updated_on>
+            <value>harrow</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>campus_name</element>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 10:30:19</sys_created_on>
+            <sys_id>144ab71f993890107f44d7957003b3f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>campus_name</sys_name>
+            <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_helpdesk_s_helpdesk_campus_name</sys_update_name>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 10:30:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

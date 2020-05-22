@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>priority</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>lukas.kopecky</sys_created_by>
+        <sys_created_on>2020-05-21 20:20:34</sys_created_on>
+        <sys_id>703186a799bc90107f44d7957003b34e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>sys_ui_policy_action_703186a799bc90107f44d7957003b34e</sys_update_name>
+        <sys_updated_by>lukas.kopecky</sys_updated_by>
+        <sys_updated_on>2020-05-21 20:20:34</sys_updated_on>
+        <table>x_cdltd_helpdesk_s_helpdesk</table>
+        <ui_policy display_value="Set priority according to a problem - Helpdesk">078042a799bc90107f44d7957003b35e</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</application>
+        <file_path/>
+        <instance_id>9735fdcadbf09454769cc170ba961911</instance_id>
+        <instance_name>adf-may-717-dev-012</instance_name>
+        <name>sys_ui_policy_action_703186a799bc90107f44d7957003b34e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>priority</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>lukas.kopecky</sys_created_by><sys_created_on>2020-05-21 20:20:34</sys_created_on><sys_id>703186a799bc90107f44d7957003b34e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>priority</sys_name><sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package><sys_policy/><sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope><sys_update_name>sys_ui_policy_action_703186a799bc90107f44d7957003b34e</sys_update_name><sys_updated_by>lukas.kopecky</sys_updated_by><sys_updated_on>2020-05-21 20:20:34</sys_updated_on><table>x_cdltd_helpdesk_s_helpdesk</table><ui_policy display_value="Set priority according to a problem - Helpdesk">078042a799bc90107f44d7957003b35e</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>920499678</payload_hash>
+        <record_name>priority</record_name>
+        <reverted_from/>
+        <source>b29b6317993890107f44d7957003b3a9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>lukas.kopecky</sys_created_by>
+        <sys_created_on>2020-05-21 20:20:34</sys_created_on>
+        <sys_id>d651c6a799bc90107f44d7957003b34e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17238e50c540000001</sys_recorded_at>
+        <sys_updated_by>lukas.kopecky</sys_updated_by>
+        <sys_updated_on>2020-05-21 20:20:34</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>1251c6a727bc9010eef57ba157d7204e</update_guid>
+        <update_guid_history>1251c6a727bc9010eef57ba157d7204e:920499678</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lukas.kopecky</sys_created_by>
+        <sys_created_on>2020-05-21 20:23:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>54badf234e4749cda2ba0e54198a1aa9</sys_id>
+        <sys_metadata>703186a799bc90107f44d7957003b34e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_parent display_value="Mandatory Description if Issue Case is Hardware, Sowtware or Other - Helpdesk">078042a799bc90107f44d7957003b35e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_scope_delete display_value="">35f2f6d6fcbe4918b3fff815362d9cd1</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_703186a799bc90107f44d7957003b34e</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_703186a799bc90107f44d7957003b34e">d651c6a799bc90107f44d7957003b34e</sys_update_version>
+        <sys_updated_by>lukas.kopecky</sys_updated_by>
+        <sys_updated_on>2020-05-21 20:23:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Helpdesk" max_length="40" name="x_cdltd_helpdesk_s_helpdesk" sizeclass="34" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Appointment date" max_length="40" name="appointment_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Campus" max_length="40" name="campus_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Regent Street" sequence="0" value="regen"/>
+                <element inactive_on_update="false" label="Cavendish" sequence="1" value="cavendish"/>
+                <element inactive_on_update="false" label="Marylebone" sequence="2" value="marylebone"/>
+                <element inactive_on_update="false" label="Harrow" sequence="3" value="harrow"/>
+            </choice>
+        </element>
+        <element choice="1" label="Issue Type" mandatory="true" max_length="40" name="issue_type" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Software" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Hardware" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Landline" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Email" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Account" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Password" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Network" sequence="6" value="7"/>
+                <element inactive_on_update="false" label="Other" sequence="7" value="8"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Requested until" mandatory="true" max_length="40" name="requested_funtil" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Request for" mandatory="true" max_length="40" name="request_for" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Requested for User" mandatory="true" max_length="32" name="user_request" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="New Reference" max_length="32" name="u_reference_1" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="encode_utf8=false" label="Computer" max_length="32" name="u_reference_6" reference="cmdb_ci_computer" type="reference"/>
+    </element>
+</database>

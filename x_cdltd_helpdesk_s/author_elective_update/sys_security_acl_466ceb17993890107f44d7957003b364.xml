@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition table="x_cdltd_helpdesk_s_helpdesk">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Allow write for records in x_cdltd_helpdesk_s_helpdesk, for users with role x_cdltd_helpdesk_s.helpdesk_technician, and if the ACL condition (assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ) evaluates to true.</description>
+        <name>x_cdltd_helpdesk_s_helpdesk</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>lukas.kopecky</sys_created_by>
+        <sys_created_on>2020-05-21 09:29:49</sys_created_on>
+        <sys_id>466ceb17993890107f44d7957003b364</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_cdltd_helpdesk_s_helpdesk</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>sys_security_acl_466ceb17993890107f44d7957003b364</sys_update_name>
+        <sys_updated_by>max.avit</sys_updated_by>
+        <sys_updated_on>2020-05-21 12:08:26</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</application>
+        <file_path/>
+        <instance_id>9735fdcadbf09454769cc170ba961911</instance_id>
+        <instance_name>adf-may-717-dev-012</instance_name>
+        <name>sys_security_acl_466ceb17993890107f44d7957003b364</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition table="x_cdltd_helpdesk_s_helpdesk">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description>Allow write for records in x_cdltd_helpdesk_s_helpdesk, for users with role x_cdltd_helpdesk_s.helpdesk_technician, and if the ACL condition (assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ) evaluates to true.</description><name>x_cdltd_helpdesk_s_helpdesk</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>lukas.kopecky</sys_created_by><sys_created_on>2020-05-21 09:29:49</sys_created_on><sys_id>466ceb17993890107f44d7957003b364</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_cdltd_helpdesk_s_helpdesk</sys_name><sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package><sys_policy/><sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope><sys_update_name>sys_security_acl_466ceb17993890107f44d7957003b364</sys_update_name><sys_updated_by>max.avit</sys_updated_by><sys_updated_on>2020-05-21 12:08:26</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-2131522599</payload_hash>
+        <record_name>x_cdltd_helpdesk_s_helpdesk</record_name>
+        <reverted_from/>
+        <source>b29b6317993890107f44d7957003b3a9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max.avit</sys_created_by>
+        <sys_created_on>2020-05-21 12:08:26</sys_created_on>
+        <sys_id>91b0d86f997890107f44d7957003b394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17237227afb0000001</sys_recorded_at>
+        <sys_updated_by>max.avit</sys_updated_by>
+        <sys_updated_on>2020-05-21 12:08:26</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>1db0d86f3e789010596c2c5830fa7c93</update_guid>
+        <update_guid_history>1db0d86f3e789010596c2c5830fa7c93:-2131522599,7e70186fbf789010e47c0cd83326a876:838951829,3ebac82b58789010cf13644de6afa449:-392065724,826ceb172b3890108df0965f8dbc2466:453788268</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max.avit</sys_created_by>
+        <sys_created_on>2020-05-21 14:26:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>65172d89a922471582b6ad0042d231c1</sys_id>
+        <sys_metadata>466ceb17993890107f44d7957003b364</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_helpdesk_s_helpdesk</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_parent display_value="x_cdltd_helpdesk_s_helpdesk">256cab17993890107f44d7957003b3e7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_scope_delete display_value="">35f2f6d6fcbe4918b3fff815362d9cd1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_466ceb17993890107f44d7957003b364</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_466ceb17993890107f44d7957003b364">91b0d86f997890107f44d7957003b394</sys_update_version>
+        <sys_updated_by>max.avit</sys_updated_by>
+        <sys_updated_on>2020-05-21 14:26:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_cdltd_helpdesk_s_helpdesk</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>lukas.kopecky</sys_created_by>
+        <sys_created_on>2020-05-21 09:29:49</sys_created_on>
+        <sys_id>f56ceb17993890107f44d7957003b32d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_cdltd_helpdesk_s_helpdesk</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_update_name>sys_security_acl_f56ceb17993890107f44d7957003b32d</sys_update_name>
+        <sys_updated_by>max.avit</sys_updated_by>
+        <sys_updated_on>2020-05-21 11:53:22</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</application>
+        <file_path/>
+        <instance_id>9735fdcadbf09454769cc170ba961911</instance_id>
+        <instance_name>adf-may-717-dev-012</instance_name>
+        <name>sys_security_acl_f56ceb17993890107f44d7957003b32d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_cdltd_helpdesk_s_helpdesk</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>lukas.kopecky</sys_created_by><sys_created_on>2020-05-21 09:29:49</sys_created_on><sys_id>f56ceb17993890107f44d7957003b32d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_cdltd_helpdesk_s_helpdesk</sys_name><sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package><sys_policy/><sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope><sys_update_name>sys_security_acl_f56ceb17993890107f44d7957003b32d</sys_update_name><sys_updated_by>max.avit</sys_updated_by><sys_updated_on>2020-05-21 11:53:22</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>536836412</payload_hash>
+        <record_name>x_cdltd_helpdesk_s_helpdesk</record_name>
+        <reverted_from/>
+        <source>b29b6317993890107f44d7957003b3a9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max.avit</sys_created_by>
+        <sys_created_on>2020-05-21 11:53:22</sys_created_on>
+        <sys_id>f84dc8ab997890107f44d7957003b36a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1723714b1bd0000001</sys_recorded_at>
+        <sys_updated_by>max.avit</sys_updated_by>
+        <sys_updated_on>2020-05-21 11:53:22</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>744dc8abdf7890101b62f7c057bec06a</update_guid>
+        <update_guid_history>744dc8abdf7890101b62f7c057bec06a:536836412,171dc4abbb7890101162454e250fa375:-1196484348,b56ceb174638901046a3693ef4617730:536836412</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max.avit</sys_created_by>
+        <sys_created_on>2020-05-21 13:40:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>5a1cd81fe1fd48f8abe0fbd676b85f10</sys_id>
+        <sys_metadata>f56ceb17993890107f44d7957003b32d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_helpdesk_s_helpdesk</sys_name>
+        <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+        <sys_parent display_value="x_cdltd_helpdesk_s_helpdesk">256cab17993890107f44d7957003b3e7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+        <sys_scope_delete display_value="">35f2f6d6fcbe4918b3fff815362d9cd1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_f56ceb17993890107f44d7957003b32d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_f56ceb17993890107f44d7957003b32d">f84dc8ab997890107f44d7957003b36a</sys_update_version>
+        <sys_updated_by>max.avit</sys_updated_by>
+        <sys_updated_on>2020-05-21 13:40:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

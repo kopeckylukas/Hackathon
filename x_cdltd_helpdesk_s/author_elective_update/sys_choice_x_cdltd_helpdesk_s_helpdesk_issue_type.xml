@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="issue_type" table="x_cdltd_helpdesk_s_helpdesk" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>0</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 20:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e7f396799bc90107f44d7957003b33c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 20:12:22</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hardware</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>1</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 20:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e7f396799bc90107f44d7957003b33e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 20:12:22</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Landline</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>2</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 20:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d67f396799bc90107f44d7957003b340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 20:12:22</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>3</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 20:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>927f396799bc90107f44d7957003b342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 20:12:22</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Account</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>4</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 20:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e7f396799bc90107f44d7957003b343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 20:12:22</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Password</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>5</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 20:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a7f396799bc90107f44d7957003b345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 20:12:22</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>6</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 20:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d27f396799bc90107f44d7957003b347</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 21:50:52</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sequence>7</sequence>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 21:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1065a2399fc90107f44d7957003b362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 21:50:52</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>issue_type</element>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 20:12:22</sys_created_on>
+            <sys_id>d67f396799bc90107f44d7957003b33d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>issue_type</sys_name>
+            <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_helpdesk_s_helpdesk_issue_type</sys_update_name>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 20:12:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

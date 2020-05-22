@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_cdltd_helpdesk_s_helpdesk" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_cdltd_helpdesk_s_helpdesk" element="NULL" name="x_cdltd_helpdesk_s_helpdesk" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">432f54ab99b890107f44d7957003b340</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_id>0f2f54ab99b890107f44d7957003b340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user_request</element>
+            <list_id display_value="x_cdltd_helpdesk_s_helpdesk" element="NULL" name="x_cdltd_helpdesk_s_helpdesk" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">432f54ab99b890107f44d7957003b340</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_id>8f2f54ab99b890107f44d7957003b340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_cdltd_helpdesk_s_helpdesk" element="NULL" name="x_cdltd_helpdesk_s_helpdesk" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">432f54ab99b890107f44d7957003b340</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_id>032f54ab99b890107f44d7957003b341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>appointment_date</element>
+            <list_id display_value="x_cdltd_helpdesk_s_helpdesk" element="NULL" name="x_cdltd_helpdesk_s_helpdesk" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">432f54ab99b890107f44d7957003b340</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_id>832f54ab99b890107f44d7957003b341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_cdltd_helpdesk_s_helpdesk" element="NULL" name="x_cdltd_helpdesk_s_helpdesk" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">432f54ab99b890107f44d7957003b340</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_id>072f54ab99b890107f44d7957003b341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_cdltd_helpdesk_s_helpdesk" element="NULL" name="x_cdltd_helpdesk_s_helpdesk" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">432f54ab99b890107f44d7957003b340</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_id>872f54ab99b890107f44d7957003b341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_cdltd_helpdesk_s_helpdesk" element="NULL" name="x_cdltd_helpdesk_s_helpdesk" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">432f54ab99b890107f44d7957003b340</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_id>0b2f54ab99b890107f44d7957003b341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_cdltd_helpdesk_s_helpdesk" element="NULL" name="x_cdltd_helpdesk_s_helpdesk" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">432f54ab99b890107f44d7957003b340</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_id>8b2f54ab99b890107f44d7957003b341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_cdltd_helpdesk_s_helpdesk</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>lukas.kopecky</sys_created_by>
+            <sys_created_on>2020-05-21 13:11:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>432f54ab99b890107f44d7957003b340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_helpdesk_s_helpdesk</sys_name>
+            <sys_package display_value="Helpdesk Support" source="x_cdltd_helpdesk_s">fe9b6317993890107f44d7957003b3a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Helpdesk Support">fe9b6317993890107f44d7957003b3a6</sys_scope>
+            <sys_update_name>sys_ui_list_x_cdltd_helpdesk_s_helpdesk_null</sys_update_name>
+            <sys_updated_by>lukas.kopecky</sys_updated_by>
+            <sys_updated_on>2020-05-21 13:11:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
