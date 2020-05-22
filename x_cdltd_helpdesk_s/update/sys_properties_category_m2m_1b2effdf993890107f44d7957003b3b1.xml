@@ -2,7 +2,7 @@
     <sys_properties_category_m2m action="INSERT_OR_UPDATE">
         <category display_value="HelpDesk Email">2a7b7b5f993890107f44d7957003b3a8</category>
         <order>100</order>
-        <property display_value="x_cdltd_helpdesk_s.problem.solved" name="x_cdltd_helpdesk_s.problem.solved">188cff9f993890107f44d7957003b375</property>
+        <property display_value="x_cdltd_helpdesk_s.problem.reminder" name="x_cdltd_helpdesk_s.problem.reminder">188cff9f993890107f44d7957003b375</property>
         <sys_class_name>sys_properties_category_m2m</sys_class_name>
         <sys_created_by>misa.nanuk</sys_created_by>
         <sys_created_on>2020-05-21 10:47:28</sys_created_on>
